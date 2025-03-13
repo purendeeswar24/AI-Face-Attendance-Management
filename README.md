@@ -1,4 +1,4 @@
-# **Fast Facial Recognition Attendance System - README**  
+# **Fast Facial Recognition Attendance System - README**  -🔗 Live Demo: Face Attendance Pro on Hugging Face
 
 ## **📌 Overview**  
 The **Fast Facial Recognition Attendance System** is a **Gradio-based AI application** that enables **efficient and automated attendance tracking** using **facial recognition**. The system allows users to:  
