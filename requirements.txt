@@ -1,0 +1,9 @@
+gradio
+opencv-python
+numpy
+pandas
+openpyxl
+pytz
+pickle5
+insightface
+onnxruntime
